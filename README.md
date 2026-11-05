@@ -28,12 +28,11 @@
 <p align="center">
 <img src="https://img.shields.io/github/followers/jaunnnngs?style=social">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaunnnngs&count_bg=%23F78686&title_bg=%23FF4F4F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
+
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
    <a href="https://www.instagram.com/jaunnnngs21/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jaunnnngs21/"/></a>&nbsp
-  <a href="mailto:ppepelo21@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ppepelo21@gmail.com"/></a>
+  
 </p>
 <br>
 
