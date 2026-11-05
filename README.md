@@ -1,5 +1,5 @@
 <br><br>
-<h3 align="center"> 😘(●'◡'●)### ☆★우주최강 박정민 저장소 입니당★☆👋 </h3>
+<h3 align="center"> 😘(●'◡'●)### 👋 </h3>
 
 <div align="center" >
   <h4> 어제보다 나은 오늘, 오늘보다 나은 내일을 위해 오늘도 열심히!!!</h4>
@@ -7,7 +7,6 @@
 
 포트폴리오보기 >>>>> https://jaunnnngs.github.io/portfolio/ <br>
 이메일주소 >>>>> jaunnnngs@naver.com <br>
-블로그 보기 >>>>>>>    https://jaunnnngs21.tistory.com/
 
 
 
